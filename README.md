@@ -68,13 +68,5 @@ Real AMZN returns showed an excess kurtosis of ~5.9, compared to ~0.02 for the G
 
 - Compare GBM against a stochastic-volatility model (e.g. Heston) or GARCH
 
-## Setup
-
-```bash
-git clone https://github.com/yourusername/monte-carlo-market-sim.git
-cd monte-carlo-market-sim
-pip install -r requirements.txt
-jupyter notebook notebooks/demo.ipynb
-```
 
 

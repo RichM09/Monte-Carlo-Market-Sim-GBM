@@ -40,9 +40,9 @@ Geometric Brownian Motion (GBM) is the standard textbook model for stock price m
 
 ## Findings
 
-============================================================
+
 GBM SIMULATION SUMMARY — AMZN
-============================================================
+=
 
 --- Calibration (from real historical data) ---
 Annualized mu (drift):      0.2547

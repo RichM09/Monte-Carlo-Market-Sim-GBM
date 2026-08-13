@@ -66,19 +66,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/demo.ipynb
 ```
 
-## Project Structure
 
-```
-monte-carlo-market-sim/
-├── README.md
-├── requirements.txt
-├── data/              # cached historical price data
-├── src/
-│   ├── simulate.py    # GBM path simulation
-│   ├── calibrate.py   # estimate mu/sigma from real data
-│   └── analyze.py     # compare real vs simulated distributions
-├── notebooks/
-│   └── demo.ipynb     # walkthrough notebook using src/
-└── tests/
-    └── test_simulate.py
-```

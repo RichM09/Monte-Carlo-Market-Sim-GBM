@@ -34,11 +34,8 @@ Geometric Brownian Motion (GBM) is the standard textbook model for stock price m
 
 ## Results
 
-*(fill in after running — embed your key chart here, e.g. `![terminal price distribution](results/terminal_dist.png)`)*
-
-- Simulated terminal price distribution vs. actual outcome
-- Real vs. simulated skewness/kurtosis
-- Real vs. simulated rolling volatility plot
+![GBM Price Paths 1000 Paths](GBMPrice Paths.png)
+![Distribution of Simulated Terminal Prices](Distribution of Simulated Terminal Prices.png)
 
 ## Findings
 
